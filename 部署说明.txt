@@ -1,7 +1,1 @@
-轻松自习室 V4｜原创角色陪伴版
-
-请将 index.html、sw.js、manifest.webmanifest、两个icon图片和整个assets文件夹（包含24张PNG）上传至 GitHub 仓库根目录。
-务必保留 assets 文件夹的层级：例如 assets/bear-0.png。
-GitHub Pages：Settings > Pages > Deploy from a branch > main > /(root)。
-原网址 https://chimu109.github.io/cozy-study-room/ 保持不变。
-注意：V4使用独立存储键；旧版记录不会删除，但不会自动显示在V4中。请备份旧版记录。
+V4.2 角色内嵌版：仅需覆盖仓库根目录的 index.html 与 sw.js。无需重新上传24张PNG。先在GitHub确认index.html文件标题包含V4.2，再从 Safari 用 ?v=42 打开。不要清除网站数据；原学习记录仍保存在本地。
