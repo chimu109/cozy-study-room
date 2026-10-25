@@ -1,0 +1,1 @@
+V2.3：已将8张角色图片直接嵌入index.html，无需上传webp。将index.html与sw.js更新到GitHub仓库根目录，确认Pages部署后访问 ?v=23。请勿清除浏览器数据，学习记录仍保存在本地。
