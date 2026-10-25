@@ -1,5 +1,7 @@
-轻松自习室 V3 动态陪伴版
+轻松自习室 V4｜原创角色陪伴版
 
-请先在旧网站导出JSON学习记录备份。将本压缩包的 index.html、sw.js、manifest.webmanifest、两个图标文件上传到 github.com/chimu109/cozy-study-room 的仓库根目录并替换同名文件。等待GitHub Pages的Actions变绿后访问 https://chimu109.github.io/cozy-study-room/?v=3
-
-本版8位角色图片已嵌入 index.html，无须单独上传 webp。保留旧版 localStorage 数据键 cozy-study-room-v1。支持待机呼吸、专注轻点头、暂停打盹、完成庆祝和点击问候。此为整张插画动画，不是拆分肢体的逐帧动画。
+请将 index.html、sw.js、manifest.webmanifest、两个icon图片和整个assets文件夹（包含24张PNG）上传至 GitHub 仓库根目录。
+务必保留 assets 文件夹的层级：例如 assets/bear-0.png。
+GitHub Pages：Settings > Pages > Deploy from a branch > main > /(root)。
+原网址 https://chimu109.github.io/cozy-study-room/ 保持不变。
+注意：V4使用独立存储键；旧版记录不会删除，但不会自动显示在V4中。请备份旧版记录。
