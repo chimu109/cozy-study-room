@@ -1,0 +1,5 @@
+轻松自习室 V2.2 图片路径修复
+本包只需要更新 index.html 与 sw.js。
+此前上传到GitHub根目录的8张 .webp 图片保持原位置。
+请确认 bear.webp、cream.webp、chick.webp、honey.webp、wolf.webp、squirrel.webp、bird.webp、bee.webp 均位于根目录。
+不要清除浏览器数据，学习记录保存在本地。
